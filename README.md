@@ -23,5 +23,5 @@
 `        `您的信任对我们非常重要，我们深知个人信息对您的重要性， 我们将按法律法规要求，采取相应安全保护措施，尽力保护您的个人信息安全可控。如对本政策内容有任何疑问、意见或者建议，您可通过腾讯方提供的联系方式与我们联系。
 
 ## **五、API 接口描述**
-详情见：https://docs.qq.com/doc/DY3R3UXVWVkhEY1dK?pub=1&dver=2.1.27237808&version=3.1.18.6007&platform=win&wwapp_vid=1688856773251206&wwapp_cst=5C281B38C567D5D89DDF463D5E53F5D983A219DCA0733668BC046F4D91C9C4F1B67AEAB5FA6C7882A2FC9FB14286E6EE&wwapp_deviceid=17752342-cb08-4a77-a743-900c47cae5aa 
+详情见：https://docs.qq.com/doc/p/808664e04caac1b0026073f55fb7ca39996a9679?dver=2.1.27237808
 
