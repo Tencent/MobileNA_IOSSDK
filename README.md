@@ -1,10 +1,10 @@
-**MNA IOS\_SDK接口文档v1.0.0**
+**MobileNA IOS\_SDK接口文档v1.0.0**
 
 ## **一、SDK说明**
 1. 本SDK支持的最低IOS版本是13.0，建议在IOS13.0以上版本使用
 
 ## **二、SDK 接入文件**
-使用pod 搜索MNA\_IOSSDK查看最新版本，在Podfile中添加依赖：pod 'MNA\_IOSSDK'
+使用pod 搜索MobileNA\_IOSSDK查看最新版本，在Podfile中添加依赖：pod 'MobileNA\_IOSSDK'
 ## **三、SDK 依赖库**
 1. other linker Flags：-lz -lstdc++
 1. ios需开启http权限：App Transport Security Settings->Allow Arbitrary Loads->Yes
