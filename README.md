@@ -1,4 +1,4 @@
-**MobileNA IOS\_SDK接口文档v1.0.0**
+**MobileNA IOS\_SDK接口文档v1.1.2**
 
 ## **一、SDK说明**
 1. 本SDK支持的最低IOS版本是13.0，建议在IOS13.0以上版本使用
