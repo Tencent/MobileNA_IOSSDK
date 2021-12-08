@@ -31,6 +31,7 @@ typedef void(^OnSuggestBlock)(int SuggestType, NSString *info);
     
     NSString *_errorMsg;
     NSString *_errorCode;
+    NSString *_requestInfo;
     
 
     
