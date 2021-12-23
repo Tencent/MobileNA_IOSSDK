@@ -58,7 +58,7 @@ typedef void(^OnSuggestBlock)(int SuggestType, NSString *info);
 - (NSString *)DeleteAppTemplate:(NSString *)templateId;
 
 - (NSString *)CreateQos:(NSArray *)destIpArray duration:(int)duration
-             menu:(NSString *)menu templateId:(NSString *)templateId;
+             menu:(NSString *)menu templateId:(NSString *)templateId protocol:(int)protocol;
 
 //此接口默认关闭最后一次加速ip
 - (NSString *)DeleteQos;
@@ -75,7 +75,8 @@ typedef void(^OnSuggestBlock)(int SuggestType, NSString *info);
 
 - (void)InitNetworkListener;
 
-- (void)StartListen:(NSString *)destIp onSuggestCB:(OnSuggestBlock)onSuggestCB;
+- (void)StartListen:(NSString *)destIp templateId:(NSString *)templateId
+            onSuggestCB:(OnSuggestBlock)onSuggestCB;
 
 - (void)StopListen;
 
